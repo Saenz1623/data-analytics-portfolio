@@ -43,3 +43,8 @@ Sample Superstore dataset (publicly available).
 - Deeper segmentation by customer and sub-category
 - Advanced DAX measures
 - Scenario-based profitability analysis
+
+## 🖼 Dashboard Preview
+
+![Dashboard](images/dashboard_preview.png)
+

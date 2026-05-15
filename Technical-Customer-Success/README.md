@@ -60,7 +60,7 @@ Uno de los mayores desafíos fue detectar que los datos del modelo original eran
 
 📊 Visualización e Insights
 
-
+![Dashboard](images/dashboard_preview.png)
 
 El dashboard final incluye:
 
@@ -76,7 +76,7 @@ El dashboard final incluye:
 
 &#x20;   Tablas de Rendimiento: Mapas de calor (Heatmaps) para identificar rápidamente qué fuentes están optimizando mejor el presupuesto.
 
-
+https://datastudio.google.com/reporting/6f5190d3-1a96-4b62-ad7a-c72a43400344
 
 Insights Clave:
 
@@ -96,5 +96,5 @@ Insights Clave:
 
 Puedes ver el desglose técnico y la explicación de la arquitectura del dashboard en este video:
 
-\[Enlace a tu video de YouTube]
+https://www.youtube.com/watch?v=wUXgIsMtziQ
 

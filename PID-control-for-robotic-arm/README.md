@@ -9,6 +9,9 @@ implemented on a Raspberry Pi platform.
 The goal of the system is to autonomously identify, track, and manipulate
 objects placed in random positions within a controlled workspace.
 
+![Robot](media/ROBOT.jpg)
+![Video](media/ROBOT.mp4)
+
 ---
 
 ## Project Objective
